@@ -1,0 +1,5 @@
+[SharedFiles]
+   path = /srv/samba/shared
+   browseable = yes
+   read only = no
+   guest ok = yes
